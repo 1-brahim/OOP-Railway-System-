@@ -1,0 +1,4 @@
+interface Payment {
+    void processPayment();
+    
+}
